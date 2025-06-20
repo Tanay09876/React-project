@@ -21,6 +21,7 @@ function Navbar() {
           <Link to="/apidata" className="hover:text-yellow-300 transition-colors"> Get </Link>
           <Link to="/emoji" className="hover:text-yellow-300 transition-colors"> Emoji </Link>
           <Link to="/form" className="hover:text-yellow-300 transition-colors"> Form</Link>
+    
 
         </div>
       </div>

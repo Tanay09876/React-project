@@ -12,6 +12,7 @@ import APIfetchdata from './pages/APIfetchdata'
 import EmojiPicker from './pages/emoji'
 import API from './pages/API'
 import Form from './pages/form'
+
 import './index.css'
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
          <Route path="/apidata" element={<API/>}/>
        <Route path="/emoji" element={<EmojiPicker/>}/>
        <Route path="/form" element={<Form/>}/>
+          
       </Routes>
 
     </>

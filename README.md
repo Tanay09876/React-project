@@ -19,7 +19,7 @@ Each project is located in its own folder inside the main repository. Here's a l
 | `/07-emoji-picker` | 😊 Emoji Picker | Insert emoji into text input |
 | `/08-innernav` | 🧭 Inner Navigation | Nested navigation within a layout |
 | `/09-theme-toggle` | 🌗 Theme Toggler | Light/dark theme toggle with localStorage |
-| `/10-chatbot-ui` | 🤖 AI Chatbot UI | Gemini-style chat UI with typing effect |
+
 
 > ✨ Add your new project in a similar format and update this table!
 
